@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Trap\AxeTrap\AxeTrap01.cs">
+    <Files>
+      <File FileName="Assets\UpdateUI.cs" Line="81" Column="1" />
+      <File FileName="Assets\Scripts\Trap\ArrowTrap\ArrowTrap01.cs" Line="39" Column="3" />
+      <File FileName="Assets\Scripts\Trap\AxeTrap\AxeTrap01.cs" Line="39" Column="3" />
+      <File FileName="Assets\Scripts\Trap\FireTrap\FireTrap01.cs" Line="70" Column="28" />
+      <File FileName="Assets\Scripts\Trap\IceTrap\IceTrap01.cs" Line="49" Column="27" />
+      <File FileName="Assets\Scripts\Trap\LogTrap\LogTrap01.cs" Line="66" Column="27" />
+      <File FileName="Assets\Scripts\Trap\SpikeTrap\SpikeTrap01.cs" Line="49" Column="29" />
+      <File FileName="Assets\Scripts\Trap\trapPrefabScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

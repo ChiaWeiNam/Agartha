@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: 5185e918935c77845a0f040d0c64d365
+timeCreated: 1470297632
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blood Sprite_0
+    21300002: Blood Sprite_1
+    21300004: Blood Sprite_2
+    21300006: Blood Sprite_3
+    21300008: Blood Sprite_4
+    21300010: Blood Sprite_5
+    21300012: Blood Sprite_6
+    21300014: Blood Sprite_7
+    21300016: Blood Sprite_8
+    21300018: Blood Sprite_9
+    21300020: Blood Sprite_10
+    21300022: Blood Sprite_11
+    21300024: Blood Sprite_12
+    21300026: Blood Sprite_13
+    21300028: Blood Sprite_14
+    21300030: Blood Sprite_15
+    21300032: Blood Sprite_16
+    21300034: Blood Sprite_17
+    21300036: Blood Sprite_18
+    21300038: Blood Sprite_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blood Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 40}
+        - {x: -38, y: 31}
+        - {x: -38, y: 18}
+        - {x: -35, y: 12}
+        - {x: -27, y: 10}
+        - {x: -9, y: 10}
+        - {x: -8, y: 11}
+        - {x: -8, y: 31}
+        - {x: -12, y: 40}
+    - name: Blood Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 49}
+        - {x: -41, y: 44}
+        - {x: -48, y: 32}
+        - {x: -49, y: 29}
+        - {x: -49, y: 13}
+        - {x: -41, y: -1}
+        - {x: -35, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 49}
+    - name: Blood Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 49}
+        - {x: -41, y: 44}
+        - {x: -48, y: 32}
+        - {x: -49, y: 29}
+        - {x: -49, y: 13}
+        - {x: -41, y: -1}
+        - {x: -35, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 49}
+    - name: Blood Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 49}
+        - {x: -41, y: 44}
+        - {x: -48, y: 32}
+        - {x: -49, y: 29}
+        - {x: -49, y: 13}
+        - {x: -41, y: -1}
+        - {x: -35, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 49}
+      - - {x: 32, y: 17}
+        - {x: 28, y: 18}
+        - {x: 17, y: 18}
+        - {x: 14, y: 12}
+        - {x: 14, y: 0}
+        - {x: 19, y: -5}
+        - {x: 25, y: -6}
+        - {x: 35, y: -6}
+        - {x: 37, y: -4}
+        - {x: 37, y: 11}
+    - name: Blood Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 49}
+        - {x: -41, y: 44}
+        - {x: -48, y: 32}
+        - {x: -49, y: 29}
+        - {x: -49, y: 13}
+        - {x: -41, y: -1}
+        - {x: -35, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 49}
+    - name: Blood Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 49}
+        - {x: -41, y: 44}
+        - {x: -48, y: 32}
+        - {x: -49, y: 29}
+        - {x: -49, y: 13}
+        - {x: -41, y: -1}
+        - {x: -35, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 49}
+    - name: Blood Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 49}
+        - {x: -41, y: 44}
+        - {x: -48, y: 32}
+        - {x: -49, y: 29}
+        - {x: -49, y: 13}
+        - {x: -41, y: -1}
+        - {x: -35, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 49}
+    - name: Blood Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -8}
+        - {x: -34, y: -13}
+        - {x: -34, y: -43}
+        - {x: -28, y: -48}
+        - {x: 6, y: -48}
+        - {x: 6, y: -8}
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -8}
+        - {x: -34, y: -13}
+        - {x: -34, y: -43}
+        - {x: -28, y: -48}
+        - {x: 6, y: -48}
+        - {x: 6, y: -8}
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -8}
+        - {x: -34, y: -13}
+        - {x: -34, y: -43}
+        - {x: -28, y: -48}
+        - {x: 6, y: -48}
+        - {x: 6, y: -8}
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -16}
+        - {x: -25, y: -30}
+        - {x: -23, y: -38}
+        - {x: -5, y: -38}
+        - {x: -2, y: -35}
+        - {x: -2, y: -19}
+        - {x: -9, y: -16}
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -8}
+        - {x: -34, y: -13}
+        - {x: -34, y: -43}
+        - {x: -28, y: -48}
+        - {x: 6, y: -48}
+        - {x: 6, y: -8}
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -8}
+        - {x: -34, y: -13}
+        - {x: -34, y: -43}
+        - {x: -28, y: -48}
+        - {x: 6, y: -48}
+        - {x: 6, y: -8}
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -8}
+        - {x: -34, y: -13}
+        - {x: -34, y: -43}
+        - {x: -28, y: -48}
+        - {x: 6, y: -48}
+        - {x: 6, y: -8}
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    - name: Blood Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -8}
+        - {x: -34, y: -13}
+        - {x: -34, y: -43}
+        - {x: -28, y: -48}
+        - {x: 6, y: -48}
+        - {x: 6, y: -8}
+      - - {x: 41, y: -7}
+        - {x: 45, y: -7}
+        - {x: 45, y: 28}
+        - {x: 22, y: 49}
+        - {x: -49, y: 49}
+        - {x: -49, y: -9}
+        - {x: -8, y: -7}
+        - {x: 1, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 6, y: -10}
+        - {x: 12, y: -17}
+        - {x: 39, y: -17}
+        - {x: 43, y: -15}
+        - {x: 42, y: -11}
+        - {x: 39, y: -5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

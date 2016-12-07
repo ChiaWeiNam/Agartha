@@ -1,0 +1,46 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   NVIDIA
+    VRAM:     971 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\HELLO_BYE`\Downloads\GPS_Agartha_Version 2016.08.05\GPS_Agartha_Version 2016.08.05\GPS_Agartha\Build\WithoutSetting_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\HELLO_BYE`\Downloads\GPS_Agartha_Version 2016.08.05\GPS_Agartha_Version 2016.08.05\GPS_Agartha\Build\WithoutSetting_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\HELLO_BYE`\Downloads\GPS_Agartha_Version 2016.08.05\GPS_Agartha_Version 2016.08.05\GPS_Agartha\Build\WithoutSetting_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\HELLO_BYE`\Downloads\GPS_Agartha_Version 2016.08.05\GPS_Agartha_Version 2016.08.05\GPS_Agartha\Build\WithoutSetting_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\HELLO_BYE`\Downloads\GPS_Agartha_Version 2016.08.05\GPS_Agartha_Version 2016.08.05\GPS_Agartha\Build\WithoutSetting_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\HELLO_BYE`\Downloads\GPS_Agartha_Version 2016.08.05\GPS_Agartha_Version 2016.08.05\GPS_Agartha\Build\WithoutSetting_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\HELLO_BYE`\Downloads\GPS_Agartha_Version 2016.08.05\GPS_Agartha_Version 2016.08.05\GPS_Agartha\Build\WithoutSetting_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\HELLO_BYE`\Downloads\GPS_Agartha_Version 2016.08.05\GPS_Agartha_Version 2016.08.05\GPS_Agartha\Build\WithoutSetting_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+Platform assembly: C:\Users\HELLO_BYE`\Downloads\GPS_Agartha_Version 2016.08.05\GPS_Agartha_Version 2016.08.05\GPS_Agartha\Build\WithoutSetting_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\HELLO_BYE`\Downloads\GPS_Agartha_Version 2016.08.05\GPS_Agartha_Version 2016.08.05\GPS_Agartha\Build\WithoutSetting_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.291764 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.261384 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.135135 ms (FindLiveObjects: 0.014376 ms CreateObjectMapping: 0.012023 ms MarkObjects: 0.096451 ms  DeleteObjects: 0.006273 ms)
+
+BGM_TEAMNAME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.296933 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 457.
+Total: 0.431546 ms (FindLiveObjects: 0.046787 ms CreateObjectMapping: 0.024570 ms MarkObjects: 0.352346 ms  DeleteObjects: 0.006796 ms)
+
+BGM_MAINMENU
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: db0 -> priority: 1 
